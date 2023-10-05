@@ -1,0 +1,11 @@
+name = "AnnotationEnv"
+uuid = "f21b950d-cebe-4650-b697-d3842b74e65d"
+authors = ["Malte Siemers <malte.siemers@mailbox.org>"]
+version = "0.1.0"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+Combinatorics = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+GenomicFeatures = "899a7d2d-5c61-547b-bef9-6698a8d05446"
+RNASeqTools = "c929925e-1c85-4562-9573-d68085edd19a"
